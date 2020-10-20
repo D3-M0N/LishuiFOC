@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 2020-10-19_19-37-22)(type Legacy)(uri C:/Users/chris/Desktop/PCB_GIT/LIB/MCP1702T-3302ECB/2020-10-19_19-37-22.lib)(options "")(descr ""))
+  (lib (name 2020-10-19_19-39-29)(type Legacy)(uri C:/Users/chris/Desktop/PCB_GIT/LIB/MCP1702T-5002ECB/2020-10-19_19-39-29.lib)(options "")(descr ""))
+  (lib (name 2020-10-19_18-23-05)(type Legacy)(uri C:/Users/chris/Desktop/PCB_GIT/LIB/TPS54361DPRR/2020-10-19_18-23-05.lib)(options "")(descr ""))
+  (lib (name 2020-10-19_18-06-57)(type Legacy)(uri C:/Users/chris/Desktop/PCB_GIT/LIB/TSV914IPT/2020-10-19_18-06-57.lib)(options "")(descr ""))
+)
